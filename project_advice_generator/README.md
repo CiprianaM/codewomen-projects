@@ -15,7 +15,7 @@ Basic functionality: we want our programme to generate a new advice whenever the
 **Basic setup (without API requests):**
 
 1. Create an index.html file with the general template code
-1. Create a main.js file
+1. Create a main.js file. Copy the array with strings from the `testAdvice.js` file and paste it at the top of your main.js file
 1. Create a style.css file
 1. Use the class names from the HTML file in your CSS
 1. Link the JavaScript file to the HTML document so that the JavaScript code will be able interact with the HTML document
