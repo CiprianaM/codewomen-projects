@@ -32,5 +32,8 @@ mv FILENAME NEW-FILENAME  =  rename the file FILENAME to NEW-FILENAME
 
 ==> Ctrl C  will terminate most of the commands that are running
 
+==> sometimes you need to use q (for 'quit') to get out of a screen (for example, after you have
+    used git diff in the terminal)
+
 ==> Commands that start with 'sudo' have to do with administrator privileges, so don't use them unless
     you are sure of what you are doing (sudo = SuperUserDo, and superuser is the administrator)
