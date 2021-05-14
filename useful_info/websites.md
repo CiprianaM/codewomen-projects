@@ -42,6 +42,15 @@ There are many websites that offer free tutorials, books or even entire courses.
 
 ### Terminal, Git and GitHub
 
+* [The official GitHub docs](https://docs.github.com/en)
+* [GitHub Guides](https://guides.github.com/)
+* [GitHub Learning Labs](https://lab.github.com/)
+* [Collaborating on GitHub](https://faun.pub/collaborating-on-github-22fd5886fce)
+* [Guide to using GitHub Pages](https://www.thinkful.com/learn/a-guide-to-using-github-pages/)
+* [Article: Using GitHub Pages](https://learntocodewith.me/tutorials/github-pages/)
+* [.gitignore file generator](https://www.toptal.com/developers/gitignore)
+* 
+
 
 ### JavaScript and React
 * [StackAbuse](https://stackabuse.com/tag/javascript/)
