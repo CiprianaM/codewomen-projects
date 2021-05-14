@@ -20,6 +20,7 @@ There are many websites that offer free tutorials, books or even entire courses.
 * [Mozilla Web Development](https://developer.mozilla.org/en-US/docs/Learn)
 * [Codecademy](https://www.codecademy.com/)
 * [Coursera](https://www.coursera.org/)
+* [Traversy Media Tutorials](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
 * [Scotch](https://scotch.io/)
 * [codebar.io](https://www.youtube.com/channel/UCEYz232agE47GHUq8wneBCA/videos)
 * [CoreyMS](https://coreyms.com/category/development)
@@ -28,11 +29,10 @@ There are many websites that offer free tutorials, books or even entire courses.
 * [SoloLearn Coding Playground](https://www.sololearn.com/home)
 * [Web Development Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)
 * [HTML Dog: HTML/CSS/JavaScript Tutorials](https://htmldog.com/)
+* [Codepip: Learn to Code by Playing Games](https://codepip.com/)
 
- 
-
+* **Tutorials and fun challenges:** [Edabit](https://edabit.com/) 
 * **Not free but cheap:** [Udemy](https://www.udemy.com/) often has courses for around 10 - 15 euros and these are usually worthwhile (but always check the reviews before you buy a course!)
-* 
 
 
 ## Resources per topic
@@ -66,11 +66,20 @@ There are many websites that offer free tutorials, books or even entire courses.
 * [CSS Tricks](https://css-tricks.com/)
 * [Flexbox Help](https://flexbox.help/)
 * [Fancy Border Radius Generator](https://9elements.github.io/fancy-border-radius/full-control.html)
+* [Animate: CSS Animations](https://animate.style/)
 
 
 ### JavaScript and React
 * [StackAbuse](https://stackabuse.com/tag/javascript/)
+* [JavaScript Crash Course for Absolute Beginners](https://www.youtube.com/watch?v=hdI2bqOjy3c)
+* [JavaScript Fundamentals course](https://javascript.info/first-steps)
+* [Learn JS: Interactive Tutorials](https://www.learn-js.org/)
+* [JavaScript Tutorials: ES6, JS DOM, Web API etc.](https://www.javascripttutorial.net/)
 * [JavaScrip course building projects](https://scotch.io/courses/getting-started-with-javascript-for-web-development)
+* [Scrimba JavaScript Classes tutorial](https://scrimba.com/scrim/cQnMDHD?pl=p4Mrt9)
+* [JavaScript DOM Crash Course](https://www.youtube.com/watch?v=0ik6X4DJKCc)
+* [Async JavaScript Crash Course](https://www.youtube.com/watch?v=PoRJizFvM7s)
+* [JavaScript Garden Documentation Collection](https://bonsaiden.github.io/JavaScript-Garden/)
 * 
 
 ### Node.js and Express
@@ -92,6 +101,10 @@ There are many websites that offer free tutorials, books or even entire courses.
 * [Fun APIs for Projects](https://dev.to/biplov/15-fun-apis-for-your-next-project-5053)
 * [Unsplash Free Photographs API](https://unsplash.com/developers)
 * [Public API website](https://public-apis.xyz/)
+* [Public APIs for Web Development](https://github.com/public-apis/public-apis/blob/master/README.md)
+* [Random User Generator](https://randomuser.me/documentation#multiple)
+* [Star Wars API](https://swapi.dev/)
+
 
 ## Various tools
 
@@ -100,4 +113,5 @@ There are many websites that offer free tutorials, books or even entire courses.
 * [Replit IDE in the browser](https://replit.com/)
 * [.gitignore file generator](https://www.toptal.com/developers/gitignore)
 * [Mockflow Wireframing](https://mockflow.com/app/#Wireframe)
-* 
+* [Free Online JSON Formatter](https://www.freeformatter.com/json-formatter.html)
+* [JSON Lint: Online JSON Validator](https://jsonlint.com/)
