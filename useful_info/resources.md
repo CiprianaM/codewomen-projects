@@ -89,13 +89,19 @@
 * [React Router for Beginners](https://www.youtube.com/watch?v=91F8reC8kvo)
 
 
-### Node.js
-* [Official Node Documentation]()
+### Node.js and npm
+* [Official Node Documentation](https://nodejs.org/en/)
+* [Npm for Absolute Beginners](https://nodesource.com/blog/an-absolute-beginners-guide-to-using-npm/)
 
 
 ### Express
 * [Official Express Documentation](https://expressjs.com/)
-
+* [Tutorials Point: Express Framework](https://www.tutorialspoint.com/nodejs/nodejs_express_framework.htm)
+* [Create an Express Web Application](https://www.tutorialsteacher.com/nodejs/expressjs-web-application)
+* [Express Application Generator](https://expressjs.com/en/starter/generator.html)
+* [Sitepoint: Using Express Generator](https://www.sitepoint.com/create-new-express-js-apps-with-express-generator/)
+* [Express Router Tutorial](https://learncybers.com/express-router-easy-static-dynamic-routing/)
+* [Getting Started with Express](https://www.youtube.com/watch?v=Z04bkB7g36E)
 
 ### Databases
 
