@@ -29,9 +29,6 @@ There are many websites that offer free tutorials, books or even entire courses.
 * [SoloLearn Coding Playground](https://www.sololearn.com/home)
 * [Web Development Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)
 * [HTML Dog: HTML/CSS/JavaScript Tutorials](https://htmldog.com/)
-* [Codepip: Learn to Code by Playing Games](https://codepip.com/)
-
-* **Tutorials and fun challenges:** [Edabit](https://edabit.com/) 
 * **Not free but cheap:** [Udemy](https://www.udemy.com/) often has courses for around 10 - 15 euros and these are usually worthwhile (but always check the reviews before you buy a course!)
 
 
@@ -74,6 +71,7 @@ There are many websites that offer free tutorials, books or even entire courses.
 * [JavaScript Crash Course for Absolute Beginners](https://www.youtube.com/watch?v=hdI2bqOjy3c)
 * [JavaScript Fundamentals course](https://javascript.info/first-steps)
 * [Learn JS: Interactive Tutorials](https://www.learn-js.org/)
+* [Edabit Interactive Tutorials](https://edabit.com/tutorial/javascript)
 * [JavaScript Tutorials: ES6, JS DOM, Web API etc.](https://www.javascripttutorial.net/)
 * [JavaScrip course building projects](https://scotch.io/courses/getting-started-with-javascript-for-web-development)
 * [Scrimba JavaScript Classes tutorial](https://scrimba.com/scrim/cQnMDHD?pl=p4Mrt9)
@@ -106,12 +104,3 @@ There are many websites that offer free tutorials, books or even entire courses.
 * [Star Wars API](https://swapi.dev/)
 
 
-## Various tools
-
-* [Lorem Ipsum Generator](https://lipsum.com/)
-* [Codepen Online Editor](https://codepen.io/)
-* [Replit IDE in the browser](https://replit.com/)
-* [.gitignore file generator](https://www.toptal.com/developers/gitignore)
-* [Mockflow Wireframing](https://mockflow.com/app/#Wireframe)
-* [Free Online JSON Formatter](https://www.freeformatter.com/json-formatter.html)
-* [JSON Lint: Online JSON Validator](https://jsonlint.com/)
