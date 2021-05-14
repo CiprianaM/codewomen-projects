@@ -1,10 +1,14 @@
-**Feel free to add to this overview if you have useful information to share**  
+***Feel free to add to this overview if you have useful information to share*** 
 
 ## Good general resources
 
 * [Mozilla Web Development](https://developer.mozilla.org/en-US/)
 * [freeCodeCamp](https://www.freecodecamp.org/news/) => very good weekly newsletter as well
 * [Stackoverflow](https://stackoverflow.com/)
+* [Medium](https://medium.com/topic/javascript)
+* [DEV](https://dev.to/)
+* [Dave Ceddia](https://daveceddia.com/archives/) => articles and tutorials
+* [Digital Ocean](https://www.digitalocean.com/community/tutorials) => Digital Ocean is a cloud platform for deploying apps etc., but its community creates articles and tutorials that are very useful
 * 
 
 
@@ -17,6 +21,7 @@ There are many websites that offer free tutorials, books or even entire courses.
 * [Mozilla Web Development](https://developer.mozilla.org/en-US/docs/Learn)
 * [Codecademy](https://www.codecademy.com/)
 * [Coursera](https://www.coursera.org/)
+* [Scotch](https://scotch.io/)
 * 
 
  
@@ -39,7 +44,9 @@ There are many websites that offer free tutorials, books or even entire courses.
 
 
 ### JavaScript and React
-
+* [StackAbuse](https://stackabuse.com/tag/javascript/)
+* [JavaScrip course building projects](https://scotch.io/courses/getting-started-with-javascript-for-web-development)
+* 
 
 ### Node.js and Express
 
