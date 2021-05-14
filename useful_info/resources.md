@@ -4,6 +4,7 @@
 
 * [Mozilla Web Development](https://developer.mozilla.org/en-US/)
 * [freeCodeCamp](https://www.freecodecamp.org/news/) => very good weekly newsletter as well
+* [W3Schools](https://www.w3schools.com/)
 * [Stackoverflow](https://stackoverflow.com/)
 * [Medium](https://medium.com/topic/javascript)
 * [DEV](https://dev.to/)
@@ -24,6 +25,9 @@ There are many websites that offer free tutorials, books or even entire courses.
 * [CoreyMS](https://coreyms.com/category/development)
 * [Dave Ceddia](https://daveceddia.com/archives/) => articles and tutorials
 * [Digital Ocean](https://www.digitalocean.com/community/tutorials) => Digital Ocean is a cloud platform for deploying apps etc., but its community creates articles and tutorials that are very useful
+* [SoloLearn Coding Playground](https://www.sololearn.com/home)
+* [Web Development Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)
+* [HTML Dog: HTML/CSS/JavaScript Tutorials](https://htmldog.com/)
 
  
 
@@ -32,15 +36,6 @@ There are many websites that offer free tutorials, books or even entire courses.
 
 
 ## Resources per topic
-
-### HTML 
-
-* [Codecademy: Learn HTML For Free](https://www.codecademy.com/learn/learn-html)
-
-### CSS
-
-* [Flexbox Help](https://flexbox.help/)
-* [Codecademy: Learn CSS For Free](https://www.codecademy.com/learn/learn-css)
 
 ### Terminal, Git and GitHub
 
@@ -59,6 +54,19 @@ There are many websites that offer free tutorials, books or even entire courses.
 * [.gitignore file generator](https://www.toptal.com/developers/gitignore)
 * 
 
+### HTML 
+
+* [Codecademy: Learn HTML For Free](https://www.codecademy.com/learn/learn-html)
+* [Marksheet Free HTML/CSS Tutorial](https://marksheet.io/)
+* [Learn to Code HTML/CSS](https://learn.shayhowe.com/html-css/)
+
+### CSS
+
+* [Codecademy: Learn CSS For Free](https://www.codecademy.com/learn/learn-css)
+* [CSS Tricks](https://css-tricks.com/)
+* [Flexbox Help](https://flexbox.help/)
+* [Fancy Border Radius Generator](https://9elements.github.io/fancy-border-radius/full-control.html)
+
 
 ### JavaScript and React
 * [StackAbuse](https://stackabuse.com/tag/javascript/)
@@ -71,8 +79,25 @@ There are many websites that offer free tutorials, books or even entire courses.
 ### Databases
 
 
+## Fonts, images and icons
+
+* [Redefining Women- Icons Collection](https://thenounproject.com/Iconathon1/collection/redefining-women/)
+* [Glaze Free Illustrations](https://www.glazestock.com/)
+* [unDraw - Open Source Illustrations](https://undraw.co/)
+* 
+
+## APIs
+
+* [Open Movie Database API](https://www.omdbapi.com/)
+* [Fun APIs for Projects](https://dev.to/biplov/15-fun-apis-for-your-next-project-5053)
+* [Unsplash Free Photographs API](https://unsplash.com/developers)
+* [Public API website](https://public-apis.xyz/)
+
 ## Various tools
 
 * [Lorem Ipsum Generator](https://lipsum.com/)
+* [Codepen Online Editor](https://codepen.io/)
 * [Replit IDE in the browser](https://replit.com/)
+* [.gitignore file generator](https://www.toptal.com/developers/gitignore)
+* [Mockflow Wireframing](https://mockflow.com/app/#Wireframe)
 * 
