@@ -23,6 +23,7 @@ There are many websites that offer free tutorials, books or even entire courses.
 * [Traversy Media Tutorials](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
 * [Scotch](https://scotch.io/)
 * [codebar.io](https://www.youtube.com/channel/UCEYz232agE47GHUq8wneBCA/videos)
+* [Programming Hub](https://www.programminghub.io/)
 * [CoreyMS](https://coreyms.com/category/development)
 * [Dave Ceddia](https://daveceddia.com/archives/) => articles and tutorials
 * [Digital Ocean](https://www.digitalocean.com/community/tutorials) => Digital Ocean is a cloud platform for deploying apps etc., but its community creates articles and tutorials that are very useful
@@ -46,8 +47,8 @@ There are many websites that offer free tutorials, books or even entire courses.
 * [GitHub Guides](https://guides.github.com/)
 * [GitHub Learning Labs](https://lab.github.com/)
 * [Collaborating on GitHub](https://faun.pub/collaborating-on-github-22fd5886fce)
-* [Guide to using GitHub Pages](https://www.thinkful.com/learn/a-guide-to-using-github-pages/)
-* [Article: Using GitHub Pages](https://learntocodewith.me/tutorials/github-pages/)
+* [Interactive Guide to using GitHub Pages](https://www.thinkful.com/learn/a-guide-to-using-github-pages/)
+* [Learn to Code: Using GitHub Pages](https://learntocodewith.me/tutorials/github-pages/)
 * [.gitignore file generator](https://www.toptal.com/developers/gitignore)
 * 
 
