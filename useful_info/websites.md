@@ -7,9 +7,7 @@
 * [Stackoverflow](https://stackoverflow.com/)
 * [Medium](https://medium.com/topic/javascript)
 * [DEV](https://dev.to/)
-* [Dave Ceddia](https://daveceddia.com/archives/) => articles and tutorials
-* [Digital Ocean](https://www.digitalocean.com/community/tutorials) => Digital Ocean is a cloud platform for deploying apps etc., but its community creates articles and tutorials that are very useful
-* 
+* [Goalkicker Free Programming Books](https://books.goalkicker.com/)
 
 
 ## Websites for free tutorials and courses
@@ -22,7 +20,10 @@ There are many websites that offer free tutorials, books or even entire courses.
 * [Codecademy](https://www.codecademy.com/)
 * [Coursera](https://www.coursera.org/)
 * [Scotch](https://scotch.io/)
-* 
+* [codebar.io](https://www.youtube.com/channel/UCEYz232agE47GHUq8wneBCA/videos)
+* [CoreyMS](https://coreyms.com/category/development)
+* [Dave Ceddia](https://daveceddia.com/archives/) => articles and tutorials
+* [Digital Ocean](https://www.digitalocean.com/community/tutorials) => Digital Ocean is a cloud platform for deploying apps etc., but its community creates articles and tutorials that are very useful
 
  
 
@@ -34,14 +35,21 @@ There are many websites that offer free tutorials, books or even entire courses.
 
 ### HTML 
 
+* [Codecademy: Learn HTML For Free](https://www.codecademy.com/learn/learn-html)
 
 ### CSS
 
 * [Flexbox Help](https://flexbox.help/)
-* 
+* [Codecademy: Learn CSS For Free](https://www.codecademy.com/learn/learn-css)
 
 ### Terminal, Git and GitHub
 
+* [Official Git website](https://git-scm.com/)
+* [Resources to Learn Git](https://try.github.io/)
+* [Download Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
+* [Tutorial: An Introduction to Git](https://www.youtube.com/watch?v=lRzM2F_R6lY)
+* [Git Tutorial for Beginners](https://intellipaat.com/blog/tutorial/devops-tutorial/git-tutorial/)
+* [Interactive: Learn Git Branching](https://learngitbranching.js.org/)
 * [The official GitHub docs](https://docs.github.com/en)
 * [GitHub Guides](https://guides.github.com/)
 * [GitHub Learning Labs](https://lab.github.com/)
@@ -61,3 +69,10 @@ There are many websites that offer free tutorials, books or even entire courses.
 
 
 ### Databases
+
+
+## Various tools
+
+* [Lorem Ipsum Generator](https://lipsum.com/)
+* [Replit IDE in the browser](https://replit.com/)
+* 
