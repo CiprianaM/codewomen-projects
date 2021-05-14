@@ -1,7 +1,6 @@
 ***Feel free to add to this overview if you have useful information to share*** 
 
 ## Good general resources
-
 * [Mozilla Web Development](https://developer.mozilla.org/en-US/)
 * [freeCodeCamp](https://www.freecodecamp.org/news/) => very good weekly newsletter as well
 * [W3Schools](https://www.w3schools.com/)
@@ -12,9 +11,6 @@
 
 
 ## Websites for free tutorials and courses
-
-There are many websites that offer free tutorials, books or even entire courses. Have a look at these:  
-
 * [freeCodeCamp](https://www.freecodecamp.org/)
 * [Flavio Copes](https://flaviocopes.com/)
 * [Mozilla Web Development](https://developer.mozilla.org/en-US/docs/Learn)
@@ -36,7 +32,6 @@ There are many websites that offer free tutorials, books or even entire courses.
 ## Resources per topic
 
 ### Terminal, Git and GitHub
-
 * [Official Git website](https://git-scm.com/)
 * [Resources to Learn Git](https://try.github.io/)
 * [Download Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
@@ -53,21 +48,23 @@ There are many websites that offer free tutorials, books or even entire courses.
 * 
 
 ### HTML 
-
 * [Codecademy: Learn HTML For Free](https://www.codecademy.com/learn/learn-html)
 * [Marksheet Free HTML/CSS Tutorial](https://marksheet.io/)
 * [Learn to Code HTML/CSS](https://learn.shayhowe.com/html-css/)
 
 ### CSS
-
 * [Codecademy: Learn CSS For Free](https://www.codecademy.com/learn/learn-css)
 * [CSS Tricks](https://css-tricks.com/)
 * [Flexbox Help](https://flexbox.help/)
 * [Fancy Border Radius Generator](https://9elements.github.io/fancy-border-radius/full-control.html)
 * [Animate: CSS Animations](https://animate.style/)
+* [Bootstrap](https://getbootstrap.com/)
+* [CSS Grid By Example](https://gridbyexample.com/examples/)
+* [Introduction to Responsive Web Design](https://www.youtube.com/watch?v=srvUrASNj0s)
+* [Media Queries for Common Device Breakpoints](https://responsivedesign.is/develop/browser-feature-support/media-queries-for-common-device-breakpoints/)
 
 
-### JavaScript and React
+### JavaScript
 * [StackAbuse](https://stackabuse.com/tag/javascript/)
 * [JavaScript Crash Course for Absolute Beginners](https://www.youtube.com/watch?v=hdI2bqOjy3c)
 * [JavaScript Fundamentals course](https://javascript.info/first-steps)
@@ -79,23 +76,55 @@ There are many websites that offer free tutorials, books or even entire courses.
 * [JavaScript DOM Crash Course](https://www.youtube.com/watch?v=0ik6X4DJKCc)
 * [Async JavaScript Crash Course](https://www.youtube.com/watch?v=PoRJizFvM7s)
 * [JavaScript Garden Documentation Collection](https://bonsaiden.github.io/JavaScript-Garden/)
-* 
+* [JavaScript Style Guide](https://education.launchcode.org/js-independent-track/appendices/style-guide.html)
+* [JavaScript Code Conventions](https://www.crockford.com/code.html)
 
-### Node.js and Express
+
+### React
+* [Official React Documentation](https://reactjs.org)
+* [Scrimba: Learn React for Free](https://scrimba.com/learn/learnreact)
+* [React Tutorial for Beginners](https://ibaslogic.com/react-tutorial-for-beginners/)
+* [Getting Started with React](https://www.sitepoint.com/getting-started-react-beginners-guide/)
+* [A Beginner's Guide to React Hooks](https://welearncode.com/beginners-guide-react-2020/)
+* [React Router for Beginners](https://www.youtube.com/watch?v=91F8reC8kvo)
+
+
+### Node.js
+* [Official Node Documentation]()
+
+
+### Express
+* [Official Express Documentation](https://expressjs.com/)
 
 
 ### Databases
 
 
 ## Fonts, images and icons
-
 * [Redefining Women- Icons Collection](https://thenounproject.com/Iconathon1/collection/redefining-women/)
 * [Glaze Free Illustrations](https://www.glazestock.com/)
 * [unDraw - Open Source Illustrations](https://undraw.co/)
-* 
+* [Pexels Free Photos & Videos](https://www.pexels.com/)
+* [The Genderspectrum Collection](https://genderphotos.vice.com/)
+* [The Noun Project: Free Icons and Photos](https://thenounproject.com/)
+* [Line Awesome](https://icons8.com/line-awesome)
+* [Fontawesome Brand Icons](https://www.w3schools.com/icons/fontawesome_icons_brand.asp)
+* [IconFinder](https://www.iconfinder.com/icon-sets/featured/free)
+* [Flaticon Vector Icons](https://www.flaticon.com/)
+* [FreeIconsPNG](https://www.freeiconspng.com/search.html?q=graph+transparent+background&tip=icon)
+* [Google Fonts](https://fonts.google.com/)
+* [Urban Fonts](https://www.urbanfonts.com/)
+* [Open Font Library](https://fontlibrary.org/)
+* [HTML Color Codes](https://htmlcolorcodes.com/)
+* [Color Picker](https://www.w3schools.com/colors/colors_picker.asp)
+* [Emojipedia](https://emojipedia.org/)
+* [Hero Background Patterns](https://www.heropatterns.com/)
+* [Open Game Art](https://opengameart.org/)
+* [Dribble Free Designs](https://dribbble.com/tags/free)
+* [FreeSound Audio](https://freesound.org/browse/)
+
 
 ## APIs
-
 * [Open Movie Database API](https://www.omdbapi.com/)
 * [Fun APIs for Projects](https://dev.to/biplov/15-fun-apis-for-your-next-project-5053)
 * [Unsplash Free Photographs API](https://unsplash.com/developers)
