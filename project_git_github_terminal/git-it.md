@@ -11,9 +11,7 @@ Git-it is a small app that you can use for this. Download it [here](https://gith
 **Start practising!**  
 Open Git-it and click the button to begin the first challenge. You also need Visual Studio Code and your terminal.  Follow along with the instructions in each challenge and use the terminal or editor as instructed.
 
-In the steps of a challenge there is a button 'Verify'. If you start completely from scratch, creating a GitHub account because you did not  
-have an account already, you can use the 'Verify' button to check if what you are doing is correct. If you already have a GitHub account,  
-the app cannot verify because your username etc. not known to the app. You can still go through the tutorial but you cannot use the 'Verify' button.
+Any questions you have, ask someone to help. That's why we have coaches 😊.
 
 
 
