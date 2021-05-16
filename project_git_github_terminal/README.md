@@ -1,4 +1,4 @@
-## Project Learning Git & GitHub
+## Project Learning Git & GitHub (for starting students)
 
 ### The goal of this project is to practice working with Git and GitHub and using the terminal
 
