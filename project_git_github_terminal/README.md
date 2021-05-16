@@ -1,10 +1,12 @@
 ## Project Learning Git & GitHub
 
-***for students who are starting their studies***
+### The goal of this project is to practice working with Git and GitHub and using the terminal
 
-### The goal of this project is to practice working with Git and GitHub and using the terminal for this
+During the introduction weeks of the bootcamp, the command line, Git and GitHub are discussed. These tools are very important and will become a routine (believe it or not). But like with everything when learning to code: you have to practise. We will use a learning tool called Git-it to practice the Git commands. This offers an example project to work with the local and remote repositories, so that you can try various things without the risk of messing up your repository :smile:.
 
-We will work with terminal commands such as:  
+You can use this material to practise in the CodeWomen coding session. Make sure you ask for help from the women developers who are there to coach, in case you have questions.
+
+We will work with **terminal commands** such as:  
 * pwd
 * mkdir
 * cd *foldername*
@@ -12,16 +14,12 @@ We will work with terminal commands such as:
 * cd ..
 * ls
 
-and Git commands such as:  
+and **Git commands** such as:  
 * git init
 * git add .
 * git commit -m "*some message*"
-* git push
+* git push (to a remote GitHub repository)
 * git status
 * git branch *branch_name*
 * and many others
-
-During the introduction weeks of the bootcamp, the command line, Git and GitHub are discussed. These tools are very important and will become a routine (believe it or not). But like with everything in learning to code: you have to practise. We will use a learning tool called Git-it to practice the Git commands. This offers an example project to work with the local and remote repositories, so that you can try various things without the risk of messing up your repository :smile:.
-
-During the CodeWomen coding session, you can use this material to practise, and as for help from the women developers who are there to coach.
 
