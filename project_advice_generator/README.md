@@ -15,7 +15,17 @@ Basic functionality: we want our programme to generate a new advice whenever the
 
 <img src="/project_advice_generator/exampleAdviceGenerator.png" width="600" />
 
-### For students
+
+### For starters
+
+1. Create an index.html file with the general template code
+1. Create a style.css file and add this to your HTML file as `<link>` (check how to add CSS to an HTML file)
+1. Make sure the tab shows *Advice Generator* as the title
+1. Build the page according to the example
+1. If you want to challenge yourself, try to make the page more attractive
+
+
+### For more advanced students
 
 **Basic setup (without API requests):**
 
