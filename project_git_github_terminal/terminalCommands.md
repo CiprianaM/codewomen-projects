@@ -18,8 +18,7 @@ Command | Explanation
 `cd ..` | change folder/directory one level up 
 `cd NAME` | go to folder/directory NAME (the file name with extension, such as .js, .txt, .html, etc.)
 `ls ` | this will show a list of files in the folder/directory that you are in (we also call that 'current directory')
-`clear` clears everything in the terminal
-
+`clear` | clears everything in the terminal
 `mkdir NAME` | makes a new directory/folder with the name of NAME
 `touch NAME` | make a new file with the name of NAME
 `cp NAME` | copy the file with the name NAME
