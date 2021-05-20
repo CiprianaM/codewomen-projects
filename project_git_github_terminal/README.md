@@ -20,6 +20,7 @@ and **Git commands** such as:
 * git commit -m "*some message*"
 * git push (to a remote GitHub repository)
 * git status
+* git diff
 * git branch *branch_name*
 * and many others
 
