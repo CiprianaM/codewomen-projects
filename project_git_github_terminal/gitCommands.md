@@ -6,6 +6,8 @@ Command | Explanation
 `git add *filename*` | stages a new file to be tracked by git
 `git add . ` | stages all files
 `git diff` | will show the code that has changed in a file: code that was added will show up in green and code that was deleted in red. To get out of `git diff`, type `q`.
+`git commit -m <message>` | commit a change means git takes a *snapshot* of your current code
+`git push` | if you have a remote repository (for example on GitHub), this will upload your code there
 
 
 TIP: if you are not sure you have Git tracking your files, you can find out by going to your folders and files on your laptop and making the hidden files visible. 
