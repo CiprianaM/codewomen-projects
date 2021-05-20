@@ -1,8 +1,11 @@
+**Useful commands:**
 
-* git init    -  initialises your project as git repository (git will track the files)
-* git add *filename*  - stages a new file to be tracked by git
-* git add .   -  stages all files
-* git diff    -  will show the code that has changed in a file: code that was added will show up in green and code that was deleted in red. To get out of the git diff, type q
+Command | Explanation
+------- | -----------
+`git init` | initialises your project as git repository (git will track the files)
+`git add *filename*` | stages a new file to be tracked by git
+`git add . ` | stages all files
+`git diff` | will show the code that has changed in a file: code that was added will show up in green and code that was deleted in red. To get out of `git diff`, type `q`.
 
 
 TIP: if you are not sure you have Git tracking your files, you can find out by going to your folders and files on your laptop and making the hidden files visible. 
