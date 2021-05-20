@@ -27,8 +27,6 @@ Command | Explanation
 `mv CURRENT-LOCATION/FILENAME` `NEW-LOCATION/FILENAME` | move a file from one directory to another. The filename stays the same, but you specify another directory
 `mv FILENAME NEW-FILENAME` | rename the file FILENAME to NEW-FILENAME
 
-**Important: Ctrl C  will terminate most of the commands that are running** but sometimes you need to use `q` (for 'quit') to get out of a screen  
-(for example, after you have used git diff in the terminal)
+**Important: Ctrl C  will terminate most of the commands that are running** but sometimes you need to use `q` (for 'quit') to get out of a screen (for example, after you have used git diff in the terminal)
 
-**Important:** Commands that start with 'sudo' have to do with administrator privileges, so don't use them unless you are absolutely sure of  
-what you are doing (sudo = SuperUserDo, and superuser is the administrator)
+**Important:** Commands that start with 'sudo' have to do with administrator privileges, so don't use them unless you are absolutely sure of what you are doing (sudo = SuperUserDo, and superuser is the administrator).
