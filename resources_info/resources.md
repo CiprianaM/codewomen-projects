@@ -45,7 +45,7 @@
 * [Interactive Guide to using GitHub Pages](https://www.thinkful.com/learn/a-guide-to-using-github-pages/)
 * [Learn to Code: Using GitHub Pages](https://learntocodewith.me/tutorials/github-pages/)
 * [.gitignore file generator](https://www.toptal.com/developers/gitignore)
-* 
+
 
 ### HTML 
 * [Codecademy: Learn HTML For Free](https://www.codecademy.com/learn/learn-html)

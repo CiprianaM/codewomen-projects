@@ -26,6 +26,7 @@ Command | Explanation
 `rm FILENAME ` | remove (delete) the file FILENAME
 `mv CURRENT-LOCATION/FILENAME` `NEW-LOCATION` `/FILENAME` | move a file from one directory to another. The filename stays the same, but you specify another directory
 `mv FILENAME NEW-FILENAME` | rename the file FILENAME to NEW-FILENAME
+`cat FILENAME` | view contents of the file
 
 **Important: Ctrl C  will terminate most of the commands that are running** but sometimes you need to use `q` (for 'quit') to get out of a screen (for example, after you have used git diff in the terminal)
 
