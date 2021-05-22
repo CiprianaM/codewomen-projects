@@ -106,7 +106,7 @@
 ### Databases
 
 
-## Fonts, images and icons
+### Fonts, images and icons
 * [Redefining Women- Icons Collection](https://thenounproject.com/Iconathon1/collection/redefining-women/)
 * [Glaze Free Illustrations](https://www.glazestock.com/)
 * [unDraw - Open Source Illustrations](https://undraw.co/)
@@ -130,7 +130,7 @@
 * [FreeSound Audio](https://freesound.org/browse/)
 
 
-## APIs
+### APIs
 * [Open Movie Database API](https://www.omdbapi.com/)
 * [Fun APIs for Projects](https://dev.to/biplov/15-fun-apis-for-your-next-project-5053)
 * [Unsplash Free Photographs API](https://unsplash.com/developers)

@@ -10,7 +10,7 @@ Command | Explanation
 `git push` | if you have a remote repository (for example on GitHub), this will upload your code there
 `git branch *branchname*` | if you want to work on part of the project but do not want to change your original code
 `git checkout *branchname*` | will change to the branch (you can also use it to go back to the main or master branch: `git checkout main`)
-`git merge *branchname*` | will merge your branch with main/master **you have to be on the main/master branch to merge**
+`git merge *branchname*` | will merge your branch with main/master; NB: **you have to be on the main/master branch to merge**
 
 
 ----
