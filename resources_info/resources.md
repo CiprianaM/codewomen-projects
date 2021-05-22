@@ -104,6 +104,17 @@
 * [Getting Started with Express](https://www.youtube.com/watch?v=Z04bkB7g36E)
 
 ### Databases
+* [DBeaver website](https://dbeaver.com/) (tool for PostgreSQL; most used in the sector)
+* [DBeaver User Guide](https://dbeaver.com/doc/dbeaver.pdf) (pdf file downloads automatically)
+* [pgAdmin website](https://www.pgadmin.org/) (tool for PostgreSQL like DBeaver but integrated with PostgreSQL and easier to work with)
+* [PostgreSQL website](https://www.postgresql.org/)
+* [PostgreSQL Tutorial & Resources](https://www.postgresqltutorial.com/)
+* [PostgreSQL Cheat Sheet](https://www.postgresqltutorial.com/postgresql-cheat-sheet/)
+* [PostgreSQL Tutorial & Information](https://fresh2refresh.com/sql-tutorial/sql-language/)
+* [MongoDB website](https://docs.mongodb.com/)
+* [MongoDB Cheat Sheet](https://www.cheatography.com/isaeus/cheat-sheets/mongodb/pdf/) (pdf file downloads automatically)
+* [Mongoose website](https://mongoosejs.com/) (tool for MongoDB)
+
 
 
 ### Fonts, images and icons
@@ -140,3 +151,11 @@
 * [Star Wars API](https://swapi.dev/)
 
 
+### Starting a project
+* [Article on the full process](https://dev.to/killianfrappartdev/how-i-built-a-real-world-project-for-the-first-time-5gn5)
+* [Fullstack Project Planning](https://dev.to/thecodepixi/fullstack-project-planning-3jml)
+
+### Deployment on Heroku
+* [Heroku website](https://devcenter.heroku.com/articles/getting-started-with-nodejs)
+* [Deploy React and Express to Heroku](https://daveceddia.com/deploy-react-express-app-heroku/)
+* [Build a Node.js, Express, & PostgreSQL REST API](https://www.taniarascia.com/node-express-postgresql-heroku/)
