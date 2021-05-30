@@ -14,7 +14,7 @@ We will use HTML, CSS, JavaScript and the Advice Slip JSON API for our project (
 1. Create a new folder on your local computer with the name: project-advice-generator
 1. Create an index.html file with the general template code
 1. Create a style.css file and add this to your HTML file as `<link>` (check how to add CSS to an HTML file)
-1. Make sure the tab shows *Advice Generator* as the title
+1. Make sure you have *Advice Generator* as the title (this will show in the tab when your app runs in the browser)
 1. Build the page according to the example
 1. If you want to challenge yourself, try to make the page more attractive
 

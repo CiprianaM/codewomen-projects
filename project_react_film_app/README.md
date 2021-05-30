@@ -18,6 +18,7 @@ Note: the basic CSS code has been created in the `index.css` file. Don't forget 
 
 1. Create a project folder using `npx create-react-app`
 1. Delete all unnecessary code
+1. Make sure you have *Ghibli Film App* as the title in your HTML (this will show in the tab when your app runs in the browser)
 1. Use the classNames that are in the index.css file (and save yourself some time!)
 1. Create a header in App.js (see example image above)
 1. Create a Films.js component 
