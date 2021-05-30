@@ -2,6 +2,8 @@
 
 ### The goal of this project is to practice working with React, specifically reacting to changes
 
+We will be using HTML, CSS, JavaScript and React.
+
 **Basic functionality:** we want our app to request data from the Studio Ghibli API (https://ghibliapi.herokuapp.com), to show films, locations, film directors etc. 
 
 **Additional functionality:** search function so that the user can search films, locations, and people.

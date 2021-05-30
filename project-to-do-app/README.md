@@ -1,6 +1,6 @@
 ## Project To Do App
 
-### The goal of this project is to practice working with Node.js, and learn how to write input to a file
+### The goal of this project is to practice working with Node.js, and learn how to write input to a file using fs
 
 We will use HTML, CSS, JavaScript, Node.js and Express in this project.
 
