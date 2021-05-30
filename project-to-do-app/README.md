@@ -14,6 +14,9 @@ Additional functionality: the user can search for a to do item.
 ### For students
 
 **Basic setup:**  
+
+1. Create a new folder on your local computer with the name: project-to-do-app
+1. Follow the steps in the document StartNodeExprProject.md that is in this folder
 1. Create an index.html file with the general template code
 1. Create a style.css file and add this to your HTML file as `<link>` (check how to add CSS to an HTML file)
 1. Make sure the tab shows *To Do App* as the title
