@@ -1,5 +1,13 @@
 ## Project Advice Generator
 
+### The goal of this project is to practice working with an API
+
+We will use HTML, CSS, JavaScript and the Advice Slip JSON API for our project (https://api.adviceslip.com/#top).
+
+Basic functionality: we want our programme to generate a new advice whenever the user presses the button. A very simple example looks like this:  
+
+<img src="/project_advice_generator/exampleAdviceGenerator.png" width="600" />
+
 ***NB: if you want to download this code on your local machine, do not fork it but clone the repo and then create a new repo to use in your own GitHub account, so that it is your own project and not a fork of this project. You can connect a local project to a new, empty GitHub repo [as follows](https://docs.github.com/en/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line). We can do this together during the coding session: it is very good to know this so that you can start a project locally and later on link it with a remote GitHub repo.***  
 
 ***If you just clone and do not fork the project, you will have to change the 'remote origin' repository after cloning. Check the remote of your local project_advice_generator project using `git remote -v`. You will probably see:***  
@@ -7,17 +15,9 @@
 `origin  https://github.com/Jethet/codewomen-projects.git (push)`  
 ***To link your local project to your own GitHub repo, you need to change the remote origin. Have a look at this article: https://devconnected.com/how-to-change-git-remote-origin/. With `git remote -v` you can again check if remote origin has been reset and now shows the name of your GitHub repo.***
 
-### The goal of this project is to practice working with an API
-
-We will use the Advice Slip JSON API for our project (https://api.adviceslip.com/#top).
-
-Basic functionality: we want our programme to generate a new advice whenever the user presses the button. A very simple example looks like this:  
-
-<img src="/project_advice_generator/exampleAdviceGenerator.png" width="600" />
-
-
 ### For starters
 
+1. Create a new folder on your local computer with the name: project-advice-generator
 1. Create an index.html file with the general template code
 1. Create a style.css file and add this to your HTML file as `<link>` (check how to add CSS to an HTML file)
 1. Make sure the tab shows *Advice Generator* as the title
@@ -29,6 +29,7 @@ Basic functionality: we want our programme to generate a new advice whenever the
 
 **Basic setup (without API requests):**
 
+1. Create a new folder on your local computer with the name: project-advice-generator
 1. Create an index.html file with the general template code
 1. Create a main.js file. Copy the array with strings from the `testAdvice.js` file and paste it at the top of your main.js file
 1. Create a style.css file
