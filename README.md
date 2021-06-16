@@ -21,4 +21,4 @@ If you clone and do not fork the project, you will have to change the 'remote or
 `origin  https://github.com/Jethet/codewomen-projects.git (fetch)`  
 `origin  https://github.com/Jethet/codewomen-projects.git (push)`
 
-To link your local project to your own GitHub repo, you need to change the remote origin. Have a look at this article: https://devconnected.com/how-to-change-git-remote-origin/. With `git remote -v` you can again check if remote origin has been reset and now shows the name of your GitHub repo.
+To link your local project to your own GitHub repo, you need to change the remote origin. Have a look at this article: https://devconnected.com/how-to-change-git-remote-origin/. With `git remote -v` you can again check if remote origin has been reset and now shows the name of your GitHub repo.# test-repo
